@@ -1,0 +1,2 @@
+(Spectra) http://irtfweb.ifa.hawaii.edu/~spex/IRTF_Spectral_Library/References_files/All.html
+(JHKs zero point flux) http://svo2.cab.inta-csic.es/theory/fps/index.php?mode=browse&gname=2MASS
